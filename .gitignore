@@ -1,0 +1,34 @@
+# Node.js
+node_modules/
+.env
+
+# Build output
+build/
+dist/
+
+# Logs
+logs/
+npm-debug.log*
+*.log
+
+# Dependency directories
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Environment variable files
+.env
+
+# IDE
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Misc
+.DS_Store
+Thumbs.db
+*.bak
+*.tmp
+*.swp
